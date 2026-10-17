@@ -1,6 +1,5 @@
-==========================
-Welcome to django-allauth!
-==========================
+Django Allauth (Fork, 2022)
+===========================
 
 .. image:: https://github.com/pennersr/django-allauth/actions/workflows/ci.yml/badge.svg
    :target: https://github.com/pennersr/django-allauth/actions
